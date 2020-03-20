@@ -158,5 +158,13 @@
 
 ---
 
+## 开源项目
+ - [SimpleMusic](https://github.com/A-Miracle/SimpleMusic)：(完整项目)本地音乐播放器，除网络播放外兼备播放器所有基本功能，动态皮肤主题更换
+ - [Bubble-Drag](https://github.com/A-Miracle/Bubble-Drag)：(自定义View)仿QQ忽略消息拖拽气泡
+ - [Gestures-Lock](https://github.com/A-Miracle/Gestures-Lock)：(自定义View)九宫格手势锁
+ - [AndroidLib](https://github.com/A-Miracle/AndroidLib)：开源Android工具类项目，工作模块板块积累，以及其它优秀开源项目引用。
+
+---
+
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
